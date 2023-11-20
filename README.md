@@ -14,9 +14,6 @@
 - 👯 I’m looking to collaborate on open-source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: Him/His
-
-
-
 - 👨‍💻 All of my projects are available
 - ⚡ Fun fact **I am funny😅**
 
