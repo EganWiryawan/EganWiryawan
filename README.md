@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on open-source
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: Him/His
+- 😄 Pronouns: He/him
 - 👨‍💻 All of my projects are available
 - ⚡ Fun fact **I am funny😅**
 
